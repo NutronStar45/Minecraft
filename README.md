@@ -1,2 +1,2 @@
 # Minecraft
-The repo of Minecraft.
+The repo of my Minecraft contents.
